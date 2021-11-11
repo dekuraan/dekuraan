@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Dekuraan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dekuraan&count_private=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dekuraan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Dekuraan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dekuraan&count_private=true&theme=dark)
 
 <!--
 **dekuraan/dekuraan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
